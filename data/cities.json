@@ -37,26 +37,26 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
+      "cityName": "İstanbul",
+      "country": "Türkiye",
+      "emoji": "🇹🇷",
       "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "notes": "CANIM VATANIM TÜRKİYE'M",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 41.01384,
+        "lng": 28.94966
       },
       "id": 3245325
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
+      "cityName": "BAKU",
+      "country": "AZERBAYCAN",
+      "emoji": "🇦🇿",
       "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "notes": "KARDEŞ ÜLKE AZERBAYCANI GEZDİM",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": 40.37767,
+        "lng": 49.89201
       },
       "id": 23423423
     }
